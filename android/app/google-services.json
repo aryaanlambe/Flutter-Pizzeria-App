@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "154078788497",
+    "firebase_url": "https://ub-pizzeria.firebaseio.com",
+    "project_id": "ub-pizzeria",
+    "storage_bucket": "ub-pizzeria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154078788497:android:84ac979d8a313ee283b830",
+        "android_client_info": {
+          "package_name": "com.ubprojects.ubpizzeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154078788497-d51827rjs4ugks80f4o5l5crpmnj2v4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqwRLPSFu1KlCIq_REyJMro2B6lSpuWnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154078788497-d51827rjs4ugks80f4o5l5crpmnj2v4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
